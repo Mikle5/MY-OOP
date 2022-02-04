@@ -1,2 +1,2 @@
 # MY-OOP
-Tat's some code 4 my university project
+That's some code 4 my university project
